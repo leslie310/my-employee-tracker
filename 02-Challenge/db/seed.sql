@@ -18,7 +18,7 @@ VALUES
 ('Sales Development',20000,5),
 ('Cyber Security Engineer',40000,6);
 
-INSERT INTO employee (first_name,last_name, role_id,manager_id)
+INSERT INTO employees (first_name,last_name, role_id,manager_id)
 VALUES
 ('Jenny', 'Gomez',1, 486),
 ('Robert', 'Sanchez',2, 865),
@@ -26,3 +26,4 @@ VALUES
 ('Melissa','White',4,223),
 ('Sara','Lee',5,784),
 ('Taylor','Lewis',6,985);
+
